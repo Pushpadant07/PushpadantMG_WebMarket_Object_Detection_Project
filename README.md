@@ -1,6 +1,12 @@
 # WebMarket_Object_Detection_Project
 
-**Problem Statement :** Analyses images of retail shelf displays, and detect the object present on the shelf and provides corrective feedback to help CPG manufacturers and retailers achieve perfect in-store execution.
+**Deliverable expected from this project:**
+
+1. Follow ML model training paradigms.
+2. Code quality
+3. A utility script that takes the model's weight file, a folder name as input, does inference on the images in the folder, and plots the results with corresponding confidence scores.
+4. Any other utility scripts that could help train, evaluate, or analyse the model easily.
+
 
 
 ## 1. What we have is:
