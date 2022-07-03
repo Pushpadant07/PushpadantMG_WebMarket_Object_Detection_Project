@@ -25,22 +25,22 @@ To modify the csv file to required format:
 * First I have read the data.
 * Extract the integers from the `filename` coloumn and created a new coloumn and added into the dataset 
 * `Sorted` the whole data from that new coloumn in ascending order.
-* See all the Code step by step in ![ Modify CSV file jupyter Notebook](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Modify%20CSV%20file.ipynb)
+* See all the Code step by step in ![ Modify CSV file jupyter Notebook](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/WebMarket_Scaled_YOLOv4.ipynb)
 
 
 ## 3. Generating a YOLO v5 PyTorch file for the model
 
 * First `Create an account` on ![Roboflow](https://roboflow.com/) and create a `new project` and `upload` all the images with their annotations
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Images/3.PNG)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Images/3.PNG)
 
 * Split the data into `70 (train)-20 (test)-10 (test)` 
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Images/6.PNG)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Images/6.PNG)
 
 * export the file in `YOLO v5 PyTorch format`
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Images/4.PNG)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Images/4.PNG)
 
 
 ## 4. Model Selection
