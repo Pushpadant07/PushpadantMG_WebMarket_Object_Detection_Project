@@ -10,7 +10,8 @@
 
 **About Data**
 ## 1. What we have is:
-### Images : I have downloaded the dataset on Kaggle - ![Kaggle Link]([https://www.kaggle.com/datasets/manikchitralwar/webmarket-dataset]) 
+### The link shaired are not working so
+### Images : I have downloaded the dataset from Kaggle - ![Kaggle Link]([https://www.kaggle.com/datasets/manikchitralwar/webmarket-dataset]) 
 
 and their 
 ### Annotation in csv format : ![Annotations](https://github.com/ParallelDots/generic-sku-detection-benchmark/tree/master/annotations/WebMarket)
