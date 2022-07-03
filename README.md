@@ -56,65 +56,63 @@ Every thing is explained in the ![ Colab Notebook ](https://github.com/Chitralwa
 
 
 ## 6 Results:
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(1).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(1).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(2).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(2).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(3).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(3).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(4).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(4).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(5).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(5).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(6).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(6).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(7).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(7).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(8).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(8).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(9).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(9).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(10).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(10).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(11).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(11).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(12).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(12).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(13).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(13).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(14).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(14).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(15).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(15).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(16).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(16).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(17).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(17).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(18).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(18).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(19).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(19).jfif)
 ==============================================================================================================
 
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(20).jfif)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Results/download%20(20).jfif)
 
-
-I can also deploy this project and create a web app if you want i also have some experience with API tool like flask and Streamlit, please let me know Thank You...
 `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
