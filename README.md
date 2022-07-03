@@ -52,7 +52,7 @@ The YOLOv5 PyTorch training and architecture conversion was the most notable con
 ## 5. Model Training:
 
 
-Every thing is explained in the ![ Colab Notebook ](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/WebMarket_Scaled_YOLOv4.ipynb)
+Every thing is explained in the ![ Colab Notebook ](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/WebMarket_Scaled_YOLOv4.ipynb)
 
 
 ## 6 Results:
