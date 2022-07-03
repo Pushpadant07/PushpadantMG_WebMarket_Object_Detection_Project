@@ -10,16 +10,16 @@
 
 **About Data**
 ## 1. What we have is:
-### Images : I have downloaded the dataset on Kaggle - ![Kaggle Link]([https://www.kaggle.com/manikchitralwar/webmarket-dataset](https://www.kaggle.com/datasets/manikchitralwar/webmarket-dataset)) 
+### Images : I have downloaded the dataset on Kaggle - ![Kaggle Link](https://www.kaggle.com/manikchitralwar/webmarket-dataset) 
 
 and their 
-### Annotation in csv format : ![Annotations](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/WebMarket_coco_gt_object.csv)
+### Annotation in csv format : ![Annotations](https://github.com/ParallelDots/generic-sku-detection-benchmark/tree/master/annotations/WebMarket)
 
 ## Data format we have :
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Images/1.PNG)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Images/1.PNG)
 
 ## 2. The data format we want :
-![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Images/2.PNG)
+![](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/Images/2.PNG)
 
 To modify the csv file to required format:
 * First I have read the data.
