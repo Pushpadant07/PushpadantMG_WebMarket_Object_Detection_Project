@@ -26,7 +26,7 @@ To modify the csv file to required format:
 * First I have read the data.
 * Extract the integers from the `filename` coloumn and created a new coloumn and added into the dataset 
 * `Sorted` the whole data from that new coloumn in ascending order.
-* See all the Code step by step in ![ Modify CSV file jupyter Notebook](https://github.com/Pushpadant07/WebMarket_Object_Detection_Project/blob/main/WebMarket_Scaled_YOLOv4.ipynb)
+* See all the Code step by step in ![ Modify CSV file jupyter Notebook](https://github.com/Pushpadant07/PushpadantMG_WebMarket_Object_Detection_Project/blob/main/Modify%20CSV%20file.ipynb)
 
 
 ## 3. Generating a YOLO v5 PyTorch file for the model
